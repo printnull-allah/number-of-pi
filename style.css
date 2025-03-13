@@ -1,0 +1,35 @@
+.h1 {
+    font-family: "Arial";
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+.body {
+    background-image: url("images/background.jpg");
+    background-size: cover;
+}
+.p {
+    font-family: "Arial";
+    font-size: 15px;
+    color: white;
+    background-color: blue;
+}
+.ul {
+    font-family: "Arial";
+    font-size: 25px;
+    color: green;
+    background-color: white;
+}
+.li {
+    font-family: "Arial";
+    font-size: 25px;
+    color: black;
+    background-color: white;
+}
+.img {
+    position: absolute;
+    object-fit: cover;
+    top: -1px;
+    width: 3%;
+    height: 3%;
+}
